@@ -2,7 +2,8 @@
 
 ### Hi, I'm Esther Mensah 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/PhilipAfriyiejr?style=for-the-badge)](https://twitter.com/PhilipAfriyiejr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/DoksBaby?style=for-the-badge)](https://twitter.com/DoksBaby)
+
 
 ## I'm a Data Scientist
 
