@@ -8,8 +8,8 @@
 ## I'm a Data Scientist
 
 - 🤝 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects & Develop meaningful and robust applications
-- ⚡ Fun fact: I love movies & sports. I play football, basketball, badminton & table tennis
+- 🥅 2021 Goals: Contribute more to Open Source projects,Create a machine learning App and bag more data science certifications.
+- ⚡ Fun fact: I love movies & music
 
 ### Connect with me:
 
