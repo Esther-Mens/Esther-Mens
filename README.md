@@ -4,10 +4,10 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/PhilipAfriyiejr?style=for-the-badge)](https://twitter.com/PhilipAfriyiejr)
 
-## I'm a Full Stack Developer!
+## I'm a Data Scientist
 
 - 🤝 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects & Develop meaningful and robust applications
+- 🥅 2021 Goals: Contribute more to Open Source projects & Develop meaningful and robust applications
 - ⚡ Fun fact: I love movies & sports. I play football, basketball, badminton & table tennis
 
 ### Connect with me:
