@@ -1,6 +1,6 @@
 
 
-### Hi, I'm Philip Owusu - Afriyie 
+### Hi, I'm Esther Mensah 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/PhilipAfriyiejr?style=for-the-badge)](https://twitter.com/PhilipAfriyiejr)
 
