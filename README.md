@@ -8,7 +8,7 @@
 ## I'm a Data Scientist
 
 - 🤝 I’m looking to collaborate with other content creators.
-- 🥅 2021 Goals: Contribute more to Open Source projects, create machine learning apps, a canvas, a portal app and bag more data science certifications.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love movies & music.
 
 ### Connect with me:
